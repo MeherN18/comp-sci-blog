@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
+Meher Notani is a student at Del Norte High **[Meher Notani](https://github.com/fastai/fastpages)** [^1].
 
 
 
